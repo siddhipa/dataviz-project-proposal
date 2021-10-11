@@ -32,7 +32,7 @@ I’ve created a proof of concept visualization of this data. It's a basic scatt
 [![image](https://user-images.githubusercontent.com/49468721/134425996-5a91e0b1-b058-41a0-b1d0-9432479456dc.png)](https://vizhub.com/siddhipa/e75567ad58d44564b91fa851ad9e6f3e)
 
 I improved the above scatter plot by including color channel to show factories with different product types. Hovering over product types in color legend highlights only those factories that belong to the chosen product type. Also, the circles in the plot have tooltips associted with them displaying factory names and countries.
-[![image](https://user-images.githubusercontent.com/49468721/136814990-b097c9a6-3146-4643-bfd2-9cfca8e417ea.png)] (https://vizhub.com/siddhipa/dec7ce1c8fa449e794385aef310be434)
+[![image](https://user-images.githubusercontent.com/49468721/136814990-b097c9a6-3146-4643-bfd2-9cfca8e417ea.png)](https://vizhub.com/siddhipa/dec7ce1c8fa449e794385aef310be434)
 
 To integrate interaction in the scatter plot, the below plot shows the availability of dropdown with countries that allows users to filter factories based on countries and to check proportion of line workers to number of workers and product types manufactured by them.[![image](https://user-images.githubusercontent.com/49468721/136815768-8edc046f-d09e-4c89-8920-aedb5845a905.png)](https://vizhub.com/siddhipa/374452615186417a921623c8a7b3010a)
 
