@@ -36,6 +36,8 @@ I improved the above scatter plot by including a color channel to show factories
 
 With the integration of interaction in the scatter plot, the below plot shows the availability of dropdown with countries that allows users to filter factories based on countries and to check the proportion of line workers to the number of workers and product types manufactured by them.[![image](https://user-images.githubusercontent.com/49468721/136815768-8edc046f-d09e-4c89-8920-aedb5845a905.png)](https://vizhub.com/siddhipa/374452615186417a921623c8a7b3010a)
 
+The interactive donut chart below shows the number of manufacturing factories available for each product type all over the world. Hovering over the chart shows details and top dropdown allows user to filter factories based on countries.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
+
 
 ## Questions & Tasks
 
