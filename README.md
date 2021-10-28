@@ -38,6 +38,9 @@ With the integration of interaction in the scatter plot, the below plot shows th
 
 The interactive donut chart below shows the number of manufacturing factories available for each product type all over the world. Hovering over the chart shows details and top dropdown allows user to filter factories based on countries.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
 
+To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.![[image](https://user-images.githubusercontent.com/49468721/139172503-e6427724-167b-4d4f-8eaa-6882401ded3d.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
+
+
 
 ## Questions & Tasks
 
