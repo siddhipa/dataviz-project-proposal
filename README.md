@@ -38,9 +38,6 @@ With the integration of interaction in the scatter plot, the below plot shows th
 
 The interactive donut chart below shows the number of manufacturing factories available for each product type all over the world. Hovering over the chart shows details and top dropdown allows user to filter factories based on countries.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
 
-To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.[![image](https://user-images.githubusercontent.com/49468721/139172503-e6427724-167b-4d4f-8eaa-6882401ded3d.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
-
-
 
 ## Questions & Tasks
 
@@ -68,6 +65,7 @@ The bottom right bar chart shows the female percent workers employed by all coun
 
 
 ## Schedule of Deliverables
+
 1.	Interactive Donut chart	  	
    - Create donut chart	(10/11-10/13)
      - Grouping data by countries & product types  
@@ -107,3 +105,15 @@ The bottom right bar chart shows the female percent workers employed by all coun
    - Add interaction to change Y-axis (11/9-11/11)
      - Populating dropdown and handling click events
    - Improvements based on feedback/suggestions		(11/11-11/13)
+
+
+## Iterated Work
+
+To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.[![image](https://user-images.githubusercontent.com/49468721/139172503-e6427724-167b-4d4f-8eaa-6882401ded3d.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
+
+
+## Progress
+
+The bubble world map visualizes total number of Nike Factories by country using circles on a map allowing users to pan & zoom and hover over each country to get its details.
+[![image](https://user-images.githubusercontent.com/49468721/139173222-636df8fe-e5ed-4128-b311-378a03bdd7b2.png)](https://vizhub.com/siddhipa/5faede5e67704af7a368c3905781b673)
+
