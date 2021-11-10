@@ -28,15 +28,15 @@ You can find the given dataset and description [here](https://gist.github.com/si
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a basic scatter plot and it shows the total number of workers employed in factories vs the number of line workers. The relation seems to be linear stating the obvious that with a number of increase in line workers there will be an increase in the number of total workers. Most factories are average-scale factories employing around 3000-4000 employees.
-[![image](https://user-images.githubusercontent.com/49468721/134425996-5a91e0b1-b058-41a0-b1d0-9432479456dc.png)](https://vizhub.com/siddhipa/e75567ad58d44564b91fa851ad9e6f3e)
-
-I improved the above scatter plot by including a color channel to show factories with different product types. Hovering over product types in the color legend highlights only those factories that belong to the chosen product type. Also, the circles in the plot have tooltips associated with them displaying factory names and countries.
-[![image](https://user-images.githubusercontent.com/49468721/136814990-b097c9a6-3146-4643-bfd2-9cfca8e417ea.png)](https://vizhub.com/siddhipa/dec7ce1c8fa449e794385aef310be434)
-
-With the integration of interaction in the scatter plot, the below plot shows the availability of dropdown with countries that allows users to filter factories based on countries and to check the proportion of line workers to the number of workers and product types manufactured by them.[![image](https://user-images.githubusercontent.com/49468721/136815768-8edc046f-d09e-4c89-8920-aedb5845a905.png)](https://vizhub.com/siddhipa/374452615186417a921623c8a7b3010a)
-
 The interactive donut chart below shows the number of manufacturing factories available for each product type all over the world. Hovering over the chart shows details and top dropdown allows user to filter factories based on countries.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
+
+To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.[![image](https://user-images.githubusercontent.com/49468721/141050559-d90b4fc2-3146-4a76-84b5-e22242698aac.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
+
+The bubble world map visualizes total number of Nike Factories by country using circles on a map allowing users to pan & zoom and hover over each country to get its details. In coming weeks, this map will have animation effects/interaction for users. [![image](https://user-images.githubusercontent.com/49468721/139173222-636df8fe-e5ed-4128-b311-378a03bdd7b2.png)](https://vizhub.com/siddhipa/5faede5e67704af7a368c3905781b673)
+
+The bar chart visualizes the top 15 Nike factories in terms of the total number of workers employed. It also uses colors to indicate types of products manufactured by factories. The country menu at the top allows filtering of factories. Hovering over highlights the bar and shows tooltips with details such as factory name, its country, and total workers.[![image](https://user-images.githubusercontent.com/49468721/141049790-cfe5d165-3858-4e35-8074-c40a0adec976.png)](https://vizhub.com/siddhipa/e3fb0093f5394a2eb79105498400f1e6)
+
+The column chart displays countries where Nike factories are situated and the average percentage of either females or migrants among employed workers based on the selection of menu at the top. Hovering over bars shows tooltips and highlights the respective bar.[![image](https://user-images.githubusercontent.com/49468721/141050260-b7847b7f-edf8-44e6-be23-6b220451a765.png)](https://vizhub.com/siddhipa/bd1bc58d07de43aeab6335429e313109)
 
 
 ## Questions & Tasks
@@ -105,15 +105,3 @@ The bottom right bar chart shows the female percent workers employed by all coun
    - Add interaction to change Y-axis (11/9-11/11)
      - Populating dropdown and handling click events
    - Improvements based on feedback/suggestions		(11/11-11/13)
-
-
-## Iterated Work
-
-To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.[![image](https://user-images.githubusercontent.com/49468721/139172503-e6427724-167b-4d4f-8eaa-6882401ded3d.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
-
-
-## Progress
-
-The bubble world map visualizes total number of Nike Factories by country using circles on a map allowing users to pan & zoom and hover over each country to get its details.
-[![image](https://user-images.githubusercontent.com/49468721/139173222-636df8fe-e5ed-4128-b311-378a03bdd7b2.png)](https://vizhub.com/siddhipa/5faede5e67704af7a368c3905781b673)
-
