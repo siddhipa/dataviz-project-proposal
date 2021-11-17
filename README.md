@@ -28,15 +28,18 @@ You can find the given dataset and description [here](https://gist.github.com/si
 
 ## Prototypes
 
-The interactive donut chart below shows the number of manufacturing factories available for each product type all over the world. Hovering over the chart shows details and top dropdown allows user to filter factories based on countries.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
+Rather than going through a number of rows of data in long tables, the following bubble world map will facilitate Nike to analyze its manufactutring factories distribution through one look. This map clearly depicts countries and continents with a large number of factories as larger the bubble size larger is the number of factories. For exmaple - Two larger circles represent countries China and Vietnam as countries with the largest number of factories. Hovering tooltips give out these details about countries and their number of factories. Bubble positions on the world map indicate that Nike factories are commonly pressent in continents like Asia, America, Europe but not in Africa or Australia. Another interaction is users are able to pan and zoom on the map.[![image](https://user-images.githubusercontent.com/49468721/139173222-636df8fe-e5ed-4128-b311-378a03bdd7b2.png)](https://vizhub.com/siddhipa/5faede5e67704af7a368c3905781b673)
+
+The following interactive donut chart helps to understand product types that are more common in manufacturing factories all over the world. The donut chart clearly shows that Nike has more Apparel manufacturing factories across the world as compared to other product types. Also, it is possible to see distribution of factories based on product types for each country with the help of country filter at the top. Hovering tooltips and highlighlight effects in the visualization makes it easy to understand the chart better.[![image](https://user-images.githubusercontent.com/49468721/137227761-e5a19564-291e-42bf-9850-8e44f8488c13.png)](https://vizhub.com/siddhipa/dfc92cac6f174a4289ec8ae05d40c4d8)
 
 To get a better sense of the top countries and their breakdown of factories in terms of different types of products they manufacture, the stacked bar chart is used. The chart has tooltips for each bar portion and highlighting effect when hovered over legend.[![image](https://user-images.githubusercontent.com/49468721/141050559-d90b4fc2-3146-4a76-84b5-e22242698aac.png)](https://vizhub.com/siddhipa/360db8e242da4cdf9bfb9a042d3ae9e6)
-
-The bubble world map visualizes total number of Nike Factories by country using circles on a map allowing users to pan & zoom and hover over each country to get its details. In coming weeks, this map will have animation effects/interaction for users. [![image](https://user-images.githubusercontent.com/49468721/139173222-636df8fe-e5ed-4128-b311-378a03bdd7b2.png)](https://vizhub.com/siddhipa/5faede5e67704af7a368c3905781b673)
 
 The bar chart visualizes the top 15 Nike factories in terms of the total number of workers employed. It also uses colors to indicate types of products manufactured by factories. The country menu at the top allows filtering of factories. Hovering over highlights the bar and shows tooltips with details such as factory name, its country, and total workers.[![image](https://user-images.githubusercontent.com/49468721/141049790-cfe5d165-3858-4e35-8074-c40a0adec976.png)](https://vizhub.com/siddhipa/e3fb0093f5394a2eb79105498400f1e6)
 
 The column chart displays countries where Nike factories are situated and the average percentage of either females or migrants among employed workers based on the selection of menu at the top. Hovering over bars shows tooltips and highlights the respective bar.[![image](https://user-images.githubusercontent.com/49468721/141050260-b7847b7f-edf8-44e6-be23-6b220451a765.png)](https://vizhub.com/siddhipa/bd1bc58d07de43aeab6335429e313109)
+
+New visualization
+[![image](https://user-images.githubusercontent.com/49468721/142292904-54b673a9-a130-49c4-9a0c-15095f705905.png)](https://vizhub.com/siddhipa/64ab6fceffcb41f4a2f5b3c124247dfd)
 
 
 ## Questions & Tasks
